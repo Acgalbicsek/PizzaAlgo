@@ -1,3 +1,6 @@
 Step 1: Choose pizza place
+Step 1a: Call chosen pizza place and ask how long the wait is
+Step 1b: If wait time is more than 65 minutes call backup
 Step 2: Choose your pizza
+Step 2a: Ask if a cinnamon wheel is available
 Step 3: Order and Enjoy
